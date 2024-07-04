@@ -1,15 +1,14 @@
 
-#INTRO
-# graphql_node
-Simple graphql hello world example on localhost.
+# INTRO
+graphql_node - Simple graphql hello world node express server example.
 
-#REQUIREMENTS
+# REQUIREMENTS
 npm/node
 
-#SETUP
+# SETUP
 npm init -y
 npm install express express-graphql graphql
 
 
-#RUN
+# RUN
 node server.js
