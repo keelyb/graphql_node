@@ -1,2 +1,2 @@
 # graphql_node
-Simple grapnel hello world example on localhost.
+Simple graphql hello world example on localhost.
