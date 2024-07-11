@@ -41,3 +41,7 @@ and the graphql results will appear on the right hand side of the page.
 
 ![GRAPHQL_NODE_2](https://github.com/keelyb/graphql_node/assets/7407493/78d12f61-7466-431f-b3c1-a48664916e5c)
 
+
+# REFERENECES
+
+- https://graphql.org/learn/schema/
