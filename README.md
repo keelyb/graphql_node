@@ -13,7 +13,7 @@
 # RUN
 - node server.js
 - Once the message appears confirming the application is running: Server running on port 4000
-- Go to your favorite browser and open http:localhost:4000/graphql
+- Go to your favorite browser and open http://localhost:4000/graphql
 - Then enter a query such as
 ~~~
 query {
