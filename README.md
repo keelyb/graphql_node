@@ -41,7 +41,14 @@ and the graphql results will appear on the right hand side of the page.
 
 ![GRAPHQL_NODE_2](https://github.com/keelyb/graphql_node/assets/7407493/78d12f61-7466-431f-b3c1-a48664916e5c)
 
+# DOCKER
 
+To run the Docker:
+~~~
+docker build -t docker-nodegraphql-image:1.0 .
+
+docker run -d -p 4000:4000 --name docker-nodegraphql-container docker-nodegraphql-image:1.0
+~~~
 # REFERENECES
 
 - https://graphql.org/learn/schema/
