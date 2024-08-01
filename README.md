@@ -3,15 +3,15 @@
 - graphql_node - Simple graphql hello world node express server example.
 
 # REQUIREMENTS
-- npm and node
+- npm and node (or yarn)
 
 # SETUP
 - npm init -y
-- npm install express express-graphql graphql
+- npm install express express-graphql graphql cors
 
 
 # RUN
-- node server.js
+- node server.js (or yarn start)
 - Once the message appears confirming the application is running: Server running on port 4000
 - Go to your favorite browser and open http://localhost:4000/graphql
 - Then enter a query such as
